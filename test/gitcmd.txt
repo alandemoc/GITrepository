@@ -1,1 +1,3 @@
 git --version
+git add filename
+git commit -m ""
